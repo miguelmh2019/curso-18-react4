@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/curso-18-react5.git/static/css/main.0dc5de89.css",
+    "main.js": "/curso-18-react5.git/static/js/main.b1a72a3e.js",
+    "index.html": "/curso-18-react5.git/index.html",
+    "main.0dc5de89.css.map": "/curso-18-react5.git/static/css/main.0dc5de89.css.map",
+    "main.b1a72a3e.js.map": "/curso-18-react5.git/static/js/main.b1a72a3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0dc5de89.css",
+    "static/js/main.b1a72a3e.js"
+  ]
+}
